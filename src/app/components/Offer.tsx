@@ -11,8 +11,8 @@ const Offer = () => {
           Delicious Old-Fashioned Burger & Fries combo
         </h1>
         <p className="text-white xl:text-xl">
-          Hurry, Don't Miss Out! Grab our mouthwatering burger and fries combo
-          while it lasts.
+          Hurry, Don&#39;t Miss Out! Grab our mouthwatering burger and fries
+          combo while it lasts.
         </p>
         <CountDown />
         <button className="bg-red-500 text-white rounded py-3 px-8 font-semibold">
